@@ -33,4 +33,4 @@ Será feita a transferência de dados de uma maneira simbólica, figurativa, rep
 
 ## RESTFUL
 
-RESTful, é a aplicação dos padrões REST.
+RESTful, é a aplicação dos padrões REST;
